@@ -1,0 +1,44 @@
+{
+    "usuarios": [
+  {
+    "name": "Pedro Silva",
+    "email": "pedro.silva@email.com",
+    "password": "Pedro@123"
+  },
+  {
+    "name": "Mariana Costa",
+    "email": "mariana.costa@email.com",
+    "password": "Mari@456"
+  },
+  {
+    "name": "Lucas Oliveira",
+    "email": "lucas.oliveira@email.com",
+    "password": "Lucas@789"
+  },
+  {
+    "name": "Fernanda Souza",
+    "email": "fernanda.souza@email.com",
+    "password": "Fê@321"
+  },
+  {
+    "name": "Carlos Pereira",
+    "email": "carlos.pereira@email.com",
+    "password": "Carlos@654"
+  },
+  {
+    "name": "Juliana Rocha",
+    "email": "juliana.rocha@email.com",
+    "password": "Ju@987"
+  },
+  {
+    "name": "Rafael Almeida",
+    "email": "rafael.almeida@email.com",
+    "password": "Rafa@159"
+  },
+  {
+    "name": "Aline Fernandes",
+    "email": "aline.fernandes@email.com",
+    "password": "Aline@753"
+  }
+]
+  }
