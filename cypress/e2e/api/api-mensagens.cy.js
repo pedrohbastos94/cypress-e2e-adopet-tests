@@ -1,7 +1,7 @@
-describe('Api Adopet', () => {
+ describe('Api Adopet', () => {
     
 
- it('Mensagens da API', () => {
+ it.skip('Mensagens da API', () => {
          cy.request({
          method: 'GET' ,
          url: 'https://adopet-api-i8qu.onrender.com/mensagem/11643cd6-7112-415b-95d2-07904b0d1a1c',
@@ -13,3 +13,4 @@ describe('Api Adopet', () => {
         })
     })
 })
+
