@@ -8,6 +8,11 @@ Projeto de automação de testes End-to-End (E2E) utilizando Cypress, com foco n
 
 ---
 
+## 📋 Plano de Teste
+[Plano de Teste Completo (DOCX)](docs/plano-de-Teste-Adopet.docx)
+
+---
+
 ## 🚀 Tecnologias utilizadas
 
 * Cypress
