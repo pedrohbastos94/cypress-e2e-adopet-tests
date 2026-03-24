@@ -52,7 +52,7 @@ Projeto de automação de testes End-to-End (E2E) utilizando Cypress, com foco n
 ![Cloud](docs/cypress-cloud2.png)
 
 
-🎥 Demonstração dos testes(Login): [Clique para assistir](docs/login.cy.js.mp4.mp4)
+🎥 Demonstração dos testes(Login): https://www.youtube.com/watch?v=j_dDYtPhuZY
 
 ---
 
